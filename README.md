@@ -31,7 +31,7 @@ Spotify UI Clone is a responsive front-end project built using **HTML5** and **C
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/spotify-ui-clone.git
+git clone https://github.com/arelli-sanjay/Spotify-UI-Clone.git
 ```
 
 2. Open the project folder.
