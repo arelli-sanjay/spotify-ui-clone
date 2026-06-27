@@ -20,11 +20,11 @@ Spotify UI Clone is a responsive front-end project built using **HTML5** and **C
 
 ## Project Screenshot
 
-![alt text](<Screenshot 2026-06-27 124258.png>) 
+<img width="1907" height="900" alt="Screenshot 2026-06-27 124258" src="https://github.com/user-attachments/assets/ddb91370-c7fb-47c6-a727-7d6aa3b233d3" />
 
-![alt text](<Screenshot 2026-06-27 124326.png>)
+<img width="1908" height="902" alt="Screenshot 2026-06-27 124326" src="https://github.com/user-attachments/assets/7ad99c30-978f-48c0-bb00-0797359a0bcc" />
 
- ![alt text](<Screenshot 2026-06-27 124347.png>)
+<img width="1912" height="897" alt="Screenshot 2026-06-27 124347" src="https://github.com/user-attachments/assets/c13df8ca-312a-4d6a-9b4c-85571b752653" />
 
 ## How to Run
 
